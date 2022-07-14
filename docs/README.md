@@ -1,62 +1,65 @@
-# Minimum Boilerplate Theme
+![logo-hiring-coders](https://github.com/diosneygomes/desafio-final-gama-academy-vtex/blob/main/logo-hiring-coders.png)
 
-The minimum Boilerplate Theme is basic store front model based on the VTEX IO Store Framework.
+# :desktop_computer: Desafio Final - Grupo 18 :trophy:
 
-It should be used only when you want to start a new store theme without any pre-set configurations, as is the case with [Store Theme](https://github.com/vtex-apps/store-theme). 
+Este repositório contém o conteúdo referente ao último desafio do programa <a href="https://www.hiringcoders.com.br/">Hiring coders</a>.
+Nele você encontrará todos os detalhes sobre a construção do projeto final feito pelo **Grupo 18**
 
-While Store Theme gives developers a ready-to-go default store front structure, the Minimum Boilerplate Theme will enable you to build you store freely from scratch.
+# :notebook: Índice
 
-## Configuration
+<a name="ancora"></a>
+:pushpin: - [Descrição do desafio](#ancora1)
 
-### Step 1 -  Basic setup
+:pushpin: - [Sobre o projeto](#ancora2)
 
-Access the VTEX IO [basic setup guide](https://vtex.io/docs/getting-started/build-stores-with-store-framework/1) and follow all the given steps. 
+:pushpin: - [Links para os projetos](#ancora3)
 
-By the end of the setup, you should have the VTEX command line interface (Toolbelt) installed along with a developer workspace you can work in.
+:pushpin: - [Equipe](#ancora4)
 
-### Step 2 - Cloning the Minimum Boilerplate Theme repository
+<a id="ancora1"></a>
+# :open_book: Descrição do desafio
 
-[Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this repository to your local files to be able to effectively start working on it.
+O desafio consiste em construir 2 APIs **(VTEX IO API e AWS API Gateway)** e um projeto de front-end (React) baseado na identidade visual da <a href="https://www.corebiz.ag/pt/">Corebiz</a> e como critério opcional seria possível criar um item no adm do VTEX para trazer o conteúdo das leads cadastradas na API Gateway AWS.
 
-Then, access the repository's directory using your terminal. 
+<a id="ancora2"></a>
+# :open_book: Sobre o projeto
 
-### Step 3 - Editing the `Manifest.json`
+Para a construção da solução do projeto, criamos uma loja fictícia onde é colocado à venda serviços oferecidos pela empresa Corebiz. São eles;
 
-Once in the repository directory, it is time to edit the Minimum Boilerplate `manifest.json` file. 
+* **Accelerators**
+* **Começando ou fazendo upgrade do seu canal de vendas**
+* **Aumente a taxa de conversão**
+* **Marketing de Performance**
+* **Projetos OmniChannel**
 
-Once you are in the file, you must replace the `vendor` and `account` values. `vendor` is the account name you are working on and `account` is anything you want to name your theme. For example:
 
-```json
-{
-  "vendor": "storecomponents",
-  "name": "my-test-theme",
-}
-```
+<a id="ancora3"></a>
+# :link: Links dos Projetos
 
-### Step 4 -  Installing required apps
+:ballot_box_with_check: <a href="https://github.com/devlobao84/oficial-desafio-corebiz.git">Projeto Front-End - React</a>
 
-In order to use Store Framework and work on your store theme, it is needed to have both `vtex.store-sitemap` and `vtex.store` installed.
+:ballot_box_with_check: <a href="https://github.com/diosneygomes/desafio-final-api-vtex">Link do reposítorio do projeto API VTEX IO</a>
 
-Run  `vtex list`  and check whether those apps are already installed. 
 
-If they aren't, run the following command to install them: `vtex install vtex.store-sitemap vtex.store -f`
+<a id="ancora4"></a>
+# :1st_place_medal: Equipe
 
-### Step 5 -  Uninstalling any existing theme
+:pouting_woman: Natália Tavares Ribeiro - | <a href="https://www.linkedin.com/in/natalia-tavares-">Linkedin</a> | <a href ="https://github.com/natalia-tavares">Github</a> |
 
-By running `vtex list`,  you can verify if any theme is installed.
+:pouting_woman: Cristina Dias - | <a href="https://www.linkedin.com/in/cristina-d">Linkedin</a> | <a href ="https://github.com/crisgit">Github</a> |
 
-It is common to already have a `vtex.store-theme`  installed when you start the store's front development process. 
+:pouting_man: Rogério Goussain Labat - | <a href="https://www.linkedin.com/in/rogerio-goussain-labat-1405207/">Linkedin</a> | <a href ="https://github.com/rogeriolabat">Github</a> |
 
-Therefore, if you find it in the app's list, copy its name and use it together with the command `vtex uninstall`. For example:
+:pouting_man: Ângelo Pietro Rosa Rodrigues - | <a href="https://www.linkedin.com/in/angelopietro/">Linkedin</a> | <a href ="https://github.com/angelopietro">Github</a> |
 
-```json
-vtex uninstall vtex.store-theme
-```
+:pouting_man: Michel Lavanere - | <a href="https://www.linkedin.com/in/michel-sampaio/">Linkedin</a> | <a href ="https://github.com/Lavanere">Github</a> |
 
-### Step 6- Run and preview your store
+:pouting_man: Jonatas Venancio - | <a href="https://www.linkedin.com/in/jonatas-venancio-dev/">Linkedin</a> | <a href ="https://github.com/jovenan">Github</a> |
 
-Then time has come to upload all the changes you made in your local files to the platform. For that, use the `vtex link` command. 
+:pouting_man: Diósney Ferreira Gomes - | <a href="https://www.linkedin.com/in/diosneygomes">Linkedin</a> | <a href ="https://github.com/diosneygomes">Github</a> |
 
-If the process runs without any errors, the following message will be displayed: `App linked successfully`. Then, run the `vtex browse` command to open a browser window having your linked store in it.
+:pouting_man: Renato Tadeu - | <a href="https://www.linkedin.com/in/renato-tadeu-a7b935213/">Linkedin</a> | <a href ="https://github.com/rtof83">Github</a> |
 
-This will enable you to see the applied changes in real time, through the account and workspace in which you are working.
+:pouting_man: Jonas Lobo - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
+
+![logo-corebiz](https://github.com/diosneygomes/desafio-final-gama-academy-vtex/blob/main/LOGO_COREBIZ.png)
