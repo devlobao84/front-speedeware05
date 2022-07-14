@@ -51,12 +51,6 @@ Para a construção da solução do projeto, criamos uma loja fictícia onde é 
 <a id="ancora4"></a>
 # :1st_place_medal: Equipe
 
-:pouting_woman: Natália Tavares Ribeiro - | <a href="https://www.linkedin.com/in/natalia-tavares-">Linkedin</a> | <a href ="https://github.com/natalia-tavares">Github</a> |
-
-:pouting_woman: Cristina Dias - | <a href="https://www.linkedin.com/in/cristina-d">Linkedin</a> | <a href ="https://github.com/crisgit">Github</a> |
-
-:pouting_man: Rogério Goussain Labat - | <a href="https://www.linkedin.com/in/rogerio-goussain-labat-1405207/">Linkedin</a> | <a href ="https://github.com/rogeriolabat">Github</a> |
-
 :pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
 
 :pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
