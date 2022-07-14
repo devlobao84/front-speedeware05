@@ -57,16 +57,18 @@ Para a construção da solução do projeto, criamos uma loja fictícia onde é 
 
 :pouting_man: Rogério Goussain Labat - | <a href="https://www.linkedin.com/in/rogerio-goussain-labat-1405207/">Linkedin</a> | <a href ="https://github.com/rogeriolabat">Github</a> |
 
-:pouting_man: Ângelo Pietro Rosa Rodrigues - | <a href="https://www.linkedin.com/in/angelopietro/">Linkedin</a> | <a href ="https://github.com/angelopietro">Github</a> |
+:pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
 
-:pouting_man: Michel Lavanere - | <a href="https://www.linkedin.com/in/michel-sampaio/">Linkedin</a> | <a href ="https://github.com/Lavanere">Github</a> |
+:pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
 
-:pouting_man: Jonatas Venancio - | <a href="https://www.linkedin.com/in/jonatas-venancio-dev/">Linkedin</a> | <a href ="https://github.com/jovenan">Github</a> |
+:pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
 
-:pouting_man: Diósney Ferreira Gomes - | <a href="https://www.linkedin.com/in/diosneygomes">Linkedin</a> | <a href ="https://github.com/diosneygomes">Github</a> |
+:pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
 
-:pouting_man: Renato Tadeu - | <a href="https://www.linkedin.com/in/renato-tadeu-a7b935213/">Linkedin</a> | <a href ="https://github.com/rtof83">Github</a> |
+:pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
 
-:pouting_man: Jonas Lobo - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
+
+
+
 
 
