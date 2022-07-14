@@ -4,6 +4,11 @@
 
 ![logo-hiring-coders](https://github.com/diosneygomes/desafio-final-gama-academy-vtex/blob/main/logo-hiring-coders.png)
 
+![logo-hiring-coders](https://github.com/devlobao84/front-speedeware05/blob/main/SPEED.png)
+
+
+
+
 # :desktop_computer: Desafio Final - Grupo 18 :trophy:
 
 Este repositório contém o conteúdo referente ao último desafio do programa <a href="https://www.hiringcoders.com.br/">Hiring coders</a>.
