@@ -1,62 +1,68 @@
-# Minimum Boilerplate Theme
+# Não se assutem!!
 
-The minimum Boilerplate Theme is basic store front model based on the VTEX IO Store Framework.
+## Esse README será editado!1
 
-It should be used only when you want to start a new store theme without any pre-set configurations, as is the case with [Store Theme](https://github.com/vtex-apps/store-theme). 
 
-While Store Theme gives developers a ready-to-go default store front structure, the Minimum Boilerplate Theme will enable you to build you store freely from scratch.
+![logo-hiring-coders](https://github.com/diosneygomes/desafio-final-gama-academy-vtex/blob/main/logo-hiring-coders.png)
 
-## Configuration
+![logo-hiring-coders](https://github.com/devlobao84/front-speedeware05/blob/main/SPEED.png)
 
-### Step 1 -  Basic setup
+# :desktop_computer: Desafio Final - Grupo 18 :trophy:
 
-Access the VTEX IO [basic setup guide](https://vtex.io/docs/getting-started/build-stores-with-store-framework/1) and follow all the given steps. 
+Este repositório contém o conteúdo referente ao último desafio do programa <a href="https://www.hiringcoders.com.br/">Hiring coders</a>.
+Nele você encontrará todos os detalhes sobre a construção do projeto final feito pelo **Grupo 18**
 
-By the end of the setup, you should have the VTEX command line interface (Toolbelt) installed along with a developer workspace you can work in.
+# :notebook: Índice
 
-### Step 2 - Cloning the Minimum Boilerplate Theme repository
+<a name="ancora"></a>
+:pushpin: - [Descrição do desafio](#ancora1)
 
-[Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this repository to your local files to be able to effectively start working on it.
+:pushpin: - [Sobre o projeto](#ancora2)
 
-Then, access the repository's directory using your terminal. 
+:pushpin: - [Links para os projetos](#ancora3)
 
-### Step 3 - Editing the `Manifest.json`
+:pushpin: - [Equipe](#ancora4)
 
-Once in the repository directory, it is time to edit the Minimum Boilerplate `manifest.json` file. 
+<a id="ancora1"></a>
+# :open_book: Descrição do desafio
 
-Once you are in the file, you must replace the `vendor` and `account` values. `vendor` is the account name you are working on and `account` is anything you want to name your theme. For example:
+O desafio consiste em construir 2 APIs **(VTEX IO API e AWS API Gateway)** e um projeto de front-end (React) baseado na identidade visual da <a href="https://www.corebiz.ag/pt/">Corebiz</a> e como critério opcional seria possível criar um item no adm do VTEX para trazer o conteúdo das leads cadastradas na API Gateway AWS.
 
-```json
-{
-  "vendor": "storecomponents",
-  "name": "my-test-theme",
-}
-```
+<a id="ancora2"></a>
+# :open_book: Sobre o projeto
 
-### Step 4 -  Installing required apps
+Para a construção da solução do projeto, criamos uma loja fictícia onde é colocado à venda serviços oferecidos pela empresa Corebiz. São eles;
 
-In order to use Store Framework and work on your store theme, it is needed to have both `vtex.store-sitemap` and `vtex.store` installed.
+* **Accelerators**
+* **Começando ou fazendo upgrade do seu canal de vendas**
+* **Aumente a taxa de conversão**
+* **Marketing de Performance**
+* **Projetos OmniChannel**
 
-Run  `vtex list`  and check whether those apps are already installed. 
 
-If they aren't, run the following command to install them: `vtex install vtex.store-sitemap vtex.store -f`
+<a id="ancora3"></a>
+# :link: Links dos Projetos
 
-### Step 5 -  Uninstalling any existing theme
+:ballot_box_with_check: <a href="https://github.com/devlobao84/oficial-desafio-corebiz.git">Projeto Front-End - React</a>
 
-By running `vtex list`,  you can verify if any theme is installed.
+:ballot_box_with_check: <a href="https://github.com/diosneygomes/desafio-final-api-vtex">Link do reposítorio do projeto API VTEX IO</a>
 
-It is common to already have a `vtex.store-theme`  installed when you start the store's front development process. 
 
-Therefore, if you find it in the app's list, copy its name and use it together with the command `vtex uninstall`. For example:
+<a id="ancora4"></a>
+# :1st_place_medal: Equipe
 
-```json
-vtex uninstall vtex.store-theme
-```
+:pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
 
-### Step 6- Run and preview your store
+:pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
 
-Then time has come to upload all the changes you made in your local files to the platform. For that, use the `vtex link` command. 
+:pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
 
-If the process runs without any errors, the following message will be displayed: `App linked successfully`. Then, run the `vtex browse` command to open a browser window having your linked store in it.
+:pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
 
-This will enable you to see the applied changes in real time, through the account and workspace in which you are working.
+:pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
+
+
+
+
+
+
