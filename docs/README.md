@@ -19,7 +19,7 @@ Nele você encontrará todos os detalhes sobre a construção do projeto final f
 <a id="ancora1"></a>
 # :open_book: Descrição do desafio
 
-O desafio consiste em construir 2 APIs **(VTEX IO API e AWS API Gateway)** e um projeto de front-end (React) baseado na identidade visual da <a href="https://www.corebiz.ag/pt/">Corebiz</a> e como critério opcional seria possível criar um item no adm do VTEX para trazer o conteúdo das leads cadastradas na API Gateway AWS.
+O desafio consiste em construir 2 APIs **(VTEX IO API e AWS API Gateway)** e um projeto de front-end (React) baseado na identidade visual da <a href="https://www.hiringcoders.com.br/">HIRING CODERS</a> e como critério opcional seria possível criar um item no adm do VTEX para trazer o conteúdo das leads cadastradas na API Gateway AWS.
 
 <a id="ancora2"></a>
 # :open_book: Sobre o projeto
