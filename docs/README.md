@@ -62,4 +62,4 @@ Para a construção da solução do projeto, criamos uma loja fictícia onde é 
 
 :pouting_man: Jonas Lobo - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
 
-![logo-corebiz](https://github.com/diosneygomes/desafio-final-gama-academy-vtex/blob/main/LOGO_COREBIZ.png)
+
