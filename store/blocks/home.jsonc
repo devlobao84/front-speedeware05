@@ -30,13 +30,13 @@
 
   "rich-text#bannerPrincipal": {
     "props": {
-      "text": "## we are <br>global.",
+      "text": "## nós somos <br>Speedware.",
       "blockClass": "textoBanner"
     }
   },
   "rich-text#bannerPrincipalAbaixo": {
     "props": {
-      "text": "levamos um pouco da nossa<br> visão pelo mundo.",
+      "text": "",
       "blockClass": "textoBanner2"
     }
   },
@@ -51,7 +51,7 @@
   },
   "rich-text#bannersecundario": {
     "props": {
-      "text": "alguns de nossos<br> principais clientes",
+      "text": "",
       "blockClass": "ContainerClientesTexto"
     }
   },
@@ -75,7 +75,7 @@
 
   "rich-text#shelf-title": {
     "props": {
-      "text": "## Nossos serviços",
+      "text": "",
       "marginTop": "100%",
       "textAlignment": "CENTER",
       "textPosition": "CENTER"
