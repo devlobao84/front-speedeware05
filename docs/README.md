@@ -1,3 +1,8 @@
+# Não se assutem!!
+
+## Esse README será editado!1
+
+
 ![logo-hiring-coders](https://github.com/diosneygomes/desafio-final-gama-academy-vtex/blob/main/logo-hiring-coders.png)
 
 ![logo-hiring-coders](https://github.com/devlobao84/front-speedeware05/blob/main/SPEED.png)
@@ -64,4 +69,4 @@ Para a construção da solução do projeto, criamos uma loja fictícia onde é 
 
 :pouting_man: Jonas Lobo - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
 
-![logo-corebiz](https://github.com/diosneygomes/desafio-final-gama-academy-vtex/blob/main/LOGO_COREBIZ.png)
+
