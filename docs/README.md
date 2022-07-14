@@ -1,3 +1,7 @@
+# Não se preocupem!! 
+
+## Esse README será editado e depois explico tudo!!
+
 ![logo-hiring-coders](https://github.com/diosneygomes/desafio-final-gama-academy-vtex/blob/main/logo-hiring-coders.png)
 
 # :desktop_computer: Desafio Final - Grupo 18 :trophy:
