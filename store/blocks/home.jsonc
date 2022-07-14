@@ -1,0 +1,84 @@
+{
+  "store.home": { 
+    "blocks": [
+      "flex-layout.row#principal",
+      "flex-layout.row#Clientes",
+      "flex-layout.row#produtos"      
+    ]
+  },
+
+  /* Editandoodedede */
+
+  "flex-layout.row#principal": {
+    "props": {
+
+      "blockClass": "bannerPrincipal"
+    },
+    "children": [
+      "image#bannerPrincipal",
+      "rich-text#bannerPrincipal",
+      "rich-text#bannerPrincipalAbaixo"
+    ]
+  },
+  "image#bannerPrincipal": {
+    "props": {
+      "src": ".assets/banner-mapa-corebiz-br.png",
+      "maxHeight": "100%",
+      "width": "100%"
+    }
+  },
+
+  "rich-text#bannerPrincipal": {
+    "props": {
+      "text": "## we are <br>global.",
+      "blockClass": "textoBanner"
+    }
+  },
+  "rich-text#bannerPrincipalAbaixo": {
+    "props": {
+      "text": "levamos um pouco da nossa<br> visão pelo mundo.",
+      "blockClass": "textoBanner2"
+    }
+  },
+  "flex-layout.row#Clientes": {
+    "props": {
+      "blockClass": "ContainerClientes"
+    },
+    "children": [
+      "rich-text#bannersecundario",
+      "image#bannersecundario"
+    ]
+  },
+  "rich-text#bannersecundario": {
+    "props": {
+      "text": "alguns de nossos<br> principais clientes",
+      "blockClass": "ContainerClientesTexto"
+    }
+  },
+  "image#bannersecundario": {
+    "props": {
+      "src": ".assets/clientesP.png",
+      "maxHeight": "100%",
+      "width": "100%"
+    }
+  },
+  "flex-layout.row#produtos": {
+    "props": {
+      "src": ".assets/background03.png",
+      "maxHeight": "100%",
+      "width": "100%"
+    },
+    "children": [
+      "rich-text#shelf-title"
+    ]
+  },
+
+  "rich-text#shelf-title": {
+    "props": {
+      "text": "## Nossos serviços",
+      "marginTop": "100%",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER"
+    }
+  }  
+}
