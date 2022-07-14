@@ -9,7 +9,7 @@
 
 
 
-# :desktop_computer: Desafio Final - Grupo 18 :trophy:
+# :desktop_computer: Desafio Semi-Final - Grupo 05 - SPEEDWARE :trophy:
 
 Este repositório contém o conteúdo referente ao último desafio do programa <a href="https://www.hiringcoders.com.br/">Hiring coders</a>.
 Nele você encontrará todos os detalhes sobre a construção do projeto final feito pelo **Grupo 18**
