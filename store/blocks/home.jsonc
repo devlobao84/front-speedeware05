@@ -1,17 +1,17 @@
 {
   "store.home": { 
-    "blocks": [
+    "blocks": [     
       "flex-layout.row#principal",
       "flex-layout.row#Clientes",
-      "flex-layout.row#produtos"      
+      "flex-layout.row#produtos",
+      "flex-layout.row#shelf"      
     ]
-  },
+  },  
 
   /* Editandoodedede */
 
   "flex-layout.row#principal": {
     "props": {
-
       "blockClass": "bannerPrincipal"
     },
     "children": [
@@ -22,7 +22,7 @@
   },
   "image#bannerPrincipal": {
     "props": {
-      "src": ".assets/banner-mapa-corebiz-br.png",
+      "src": "",
       "maxHeight": "100%",
       "width": "100%"
     }
@@ -30,6 +30,7 @@
 
   "rich-text#bannerPrincipal": {
     "props": {
+      "src": ".assets/clientesP.png",
       "text": "## nós somos <br>Speedware.",
       "blockClass": "textoBanner"
     }
@@ -80,5 +81,26 @@
       "textAlignment": "CENTER",
       "textPosition": "CENTER"
     }
-  }  
+  },
+   /* Produtos */
+   "flex-layout.row#shelf": {
+    "children": ["list-context.product-list#demo1"]
+  },
+  "list-context.product-list#demo1": {
+    "blocks": ["product-summary.shelf"],
+    "children": ["slider-layout"],
+    "props": {
+      "orderBy": "OrderByTopSaleDESC"
+    }
+  },
+  "product-summary.shelf": {
+    "children": [
+      "product-summary-name",
+      "product-summary-description",
+      "product-summary-image",
+      "product-summary-price",
+      "product-summary-sku-selector",
+      "product-summary-buy-button"
+    ]
+  } 
 }
