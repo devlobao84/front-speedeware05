@@ -2,8 +2,7 @@
   "store.home": { 
     "blocks": [     
       "flex-layout.row#principal",
-      "flex-layout.row#Clientes",
-      "flex-layout.row#produtos"     
+      "flex-layout.row#Clientes"      
     ]
   },
   /* Editandoodedede */
@@ -60,24 +59,5 @@
       "maxHeight": "100%",
       "width": "100%"
     }
-  },
-  "flex-layout.row#produtos": {
-    "props": {
-      "src": ".assets/background03.png",
-      "maxHeight": "100%",
-      "width": "100%"
-    },
-    "children": [
-      "rich-text#shelf-title"
-    ]
-  },
-
-  "rich-text#shelf-title": {
-    "props": {
-      "text": "",
-      "marginTop": "100%",
-      "textAlignment": "CENTER",
-      "textPosition": "CENTER"
-    }
-  }   
+  }
 }
